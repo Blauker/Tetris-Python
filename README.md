@@ -1,2 +1,2 @@
-# Tetris-on-Python
-My version of tetris created withPython 
+# Tetris
+My version of tetris created with Python 
