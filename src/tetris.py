@@ -38,7 +38,7 @@ class Piece:
         self.currRot %= 4
     
     def ReadRotations(self, letter: str, rotacion: int) -> list:
-        file = "Piezas/" + letter + ".txt"
+        file = "pieces/" + letter + ".txt"
 
         with open(file, "r") as f:
             content = f.read()
