@@ -1,5 +1,5 @@
-# Tetris
-My version of tetris created with Python 
+# Tetris by Blauker
+This is version of tetris created with Python 
 
 # Controlls
 A-> Move piece to the left <br />
